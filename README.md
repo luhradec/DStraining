@@ -1,2 +1,2 @@
 # DStraining
-Exercise from the data steward training module 2
+Exercise from the **data steward training** module 2
